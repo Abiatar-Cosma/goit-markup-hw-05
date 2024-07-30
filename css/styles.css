@@ -745,6 +745,7 @@ a {
 .checkbox-input:checked + .user-privacy-label .user-privacy-span {
   background-color: #404bbf;
   border: none;
+  fill: #f4f4fd;
 }
 
 .checkbox-input:checked
