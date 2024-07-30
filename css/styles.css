@@ -734,6 +734,10 @@ a {
   fill: transparent;
 }
 
+.checkbox-icon {
+  cursor: pointer;
+}
+
 .checkbox-input:checked + .user-privacy-label .user-privacy-span {
   background-color: #404bbf;
   border: none;
